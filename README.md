@@ -28,10 +28,20 @@ Jestem ambitnym specjalistą IT rozwijającym się w obszarze DevOps i administr
 Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych sytuacjach, a dbałość o szczegóły gwarantuje wysoką jakość realizowanych projektów.
 
 ## 🔥 Statystyki GitHub
+<p align="center">
+  <img height="170" src="https://api.github-readme-stats.vercel.app/api?username=Swagrzyk&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://api.github-readme-stats.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages" />
+</p>
 
 <p align="center">
-    <img height="170" src="https://api.github-readme-stats.vercel.app/api?username=Swagrzyk&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" />
-    <img height="170" src="https://api.github-readme-stats.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=Swagrzyk&theme=tokyonight&fire=DD2727" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Swagrzyk&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
 </p>
 <p align="center">
