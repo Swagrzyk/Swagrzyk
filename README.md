@@ -66,7 +66,7 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 
 | Projekt | Opis | Tech Stack |
 |---------|------|------------|
-| [🚀 System Backupowy ](https://github.com/Swagrzyk/erp-backup-system) | System backupowy | Bash, Cron |
+| [🚀 System Backupowy ](https://github.com/Swagrzyk/SystemBackup) | Zaawansowany system backupu dla środowisk WordPress z obsługą Docker i powiadomieniami email.|Shell, Bash, Cron |
 | [📊 Monitoring Dashboard](https://github.com/Swagrzyk/monitoring-system) | System monitorowania usług i infrastruktury | Grafana, Prometheus, Python |
 | [🐍 Snake Game Advanced](https://github.com/Swagrzyk/snake) | Gra snake  | C++ |
 | [♟️ Checkers AI](https://github.com/Swagrzyk/checkers) | Warcaby  | c++  |
