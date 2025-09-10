@@ -111,7 +111,7 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swagrzyk&theme=tokyo-night&custom_title=GitHub%20Activity%20Graph%20(Last%20365%20days)&days=365" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swagrzyk&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 
