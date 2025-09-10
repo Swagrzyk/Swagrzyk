@@ -27,32 +27,6 @@ Jestem ambitnym specjalistą IT rozwijającym się w obszarze DevOps i administr
 
 Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych sytuacjach, a dbałość o szczegóły gwarantuje wysoką jakość realizowanych projektów.
 
-## 🔥 Statystyki GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Swagrzyk&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swagrzyk&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swagrzyk&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swagrzyk&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://streak-stats.demolab.com/?user=Swagrzyk&theme=tokyonight&fire=DD2727" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
 
 
 ## 🛠️ Tech Stack
@@ -123,17 +97,39 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 - **Projekt sieciowy**: Sieć CCTV Dworca Głównego PKP we Wrocławiu
 - **Kalkulator walutowy** z API NBP (Java Spring Boot)
 
-## 📈 Aktywność GitHub
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-*💡 PS: Ta sekcja pokaże Twoją ostatnią aktywność gdy dodasz GitHub Actions*
-
 ## 📫 Kontakt
 
 - **📧 Email:** [mswagrzyk@interia.pl](mailto:mswagrzyk@interia.pl)
 - **💼 LinkedIn:** [(https://www.linkedin.com/in/mateusz-swagrzyk/)](https://www.linkedin.com/in/mateusz-swagrzyk/)
+
+## 🔥 Statystyki GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Swagrzyk&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swagrzyk&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swagrzyk&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Swagrzyk&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img height="200" src="https://streak-stats.demolab.com/?user=Swagrzyk&theme=tokyonight&fire=DD2727" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+
 
 <p align="center">
   <a href="https://github.com/Swagrzyk?tab=repositories">
