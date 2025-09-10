@@ -1,11 +1,10 @@
 <!-- Nagłówek -->
-<h1 align="center">Cześć, tu Mateusz (Swagrzyk) 👋</h1>
+<h1 align="center">Cześć, tu Mateusz Swagrzyk 👋</h1>
 <h3 align="center">Administrator Aplikacji • DevOps • Systemy IT</h3>
 
 <p align="center">
   <a href="mailto:mswagrzyk@interia.pl">📧 mswagrzyk@interia.pl</a> •
   <a href="https://www.linkedin.com/in/mateusz-swagrzyk/">💼 LinkedIn</a> •
-  <a href="https://swagrzyk.github.io/portfolio/">🌐 Portfolio</a>
 </p>
 
 <p align="center">
@@ -31,8 +30,9 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 ## 🔥 Statystyki GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Swagrzyk&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
+    <img height="170" src="https://api.github-readme-stats.vercel.app/api?username=Swagrzyk&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" />
+    <img height="170" src="https://api.github-readme-stats.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
 </p>
 <p align="center">
   <img height="200" src="https://streak-stats.demolab.com/?user=Swagrzyk&theme=tokyonight&fire=DD2727" />
@@ -45,10 +45,10 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 `Linux` `Docker` `Kubernetes` `AWS` `Vagrant` `VirtualBox` `Aruba Central`
 
 **Monitoring & DevOps:** \
-`Grafana` `Prometheus` `Nagios` `GitHub Actions` `GitLab CI` `Ansible` `PDQ Deploy`
+`Grafana` `Prometheus` `Nagios`  `GitLab CI` `Ansible` `PDQ Deploy`
 
 **Programowanie & Bazy Danych:** \
-`Python` `Java` `Bash` `PowerShell` `SQL` `C++`
+`Python` `Java` `Bash` `PowerShell` `SQL` `C++` `MySQL` `Postgress`
 
 **Narzędzia & Platformy:** \
 `Comarch ERP` `Git` `JIRA` `Confluence` `Intune` `Exchange` `Entra ID` `TrendMicro` `Zebra` `WordPress` `Postman`
@@ -76,12 +76,12 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 
 | Projekt | Opis | Tech Stack |
 |---------|------|------------|
-| [🚀 System Backupowy ERP](https://github.com/Swagrzyk/erp-backup-system) | Zaawansowany system backupowy i rollbackowy dla środowisk Comarch ERP | Python, Bash, Cron, SQL |
+| [🚀 System Backupowy ](https://github.com/Swagrzyk/erp-backup-system) | Zaawansowany system backupowy i rollbackowy dla środowisk Comarch ERP | Python, Bash, Cron, SQL |
 | [📊 Monitoring Dashboard](https://github.com/Swagrzyk/monitoring-system) | System monitorowania usług i infrastruktury | Grafana, Prometheus, Python |
 | [🐍 Snake Game Advanced](https://github.com/Swagrzyk/snake) | Gra snake z AI i wieloma funkcjami | Python, PyGame, Algorithms |
 | [♟️ Checkers AI](https://github.com/Swagrzyk/checkers) | Warcaby z silnikiem AI | Java, Algorithms, UI |
 | [💱 Kalkulator Walutowy](https://github.com/Swagrzyk/currency-converter) | Kalkulator walutowy z API NBP | Java, Spring Boot, API |
-| [🔧 DevOps Toolkit](https://github.com/Swagrzyk/devops-tools) | Zbiór skryptów i narzędzi DevOps | Bash, Python, Docker |
+
 
 ## 🎓 Edukacja
 
@@ -91,7 +91,7 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 
 ## 📜 Certyfikaty & Kursy
 
-<img align="right" src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git,jenkins" width="300" />
+<img align="right" src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git" width="300" />
 
 - **NOKIA** - Praktyczne aspekty tworzenia oprogramowania (STL, TDD, SOLID, wzorce projektowe)
 - **CCNA** - Wprowadzenie do sieci ✅
@@ -117,8 +117,7 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 ## 📫 Kontakt
 
 - **📧 Email:** [mswagrzyk@interia.pl](mailto:mswagrzyk@interia.pl)
-- **💼 LinkedIn:** [[Twój LinkedIn]](https://www.linkedin.com/in/mateusz-swagrzyk/)
-- **🌐 Portfolio:** [[Twój Portfolio]](https://swagrzyk.github.io/portfolio/)
+- **💼 LinkedIn:** [(https://www.linkedin.com/in/mateusz-swagrzyk/)](https://www.linkedin.com/in/mateusz-swagrzyk/)
 
 <p align="center">
   <a href="https://github.com/Swagrzyk?tab=repositories">
