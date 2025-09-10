@@ -66,10 +66,10 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 
 | Projekt | Opis | Tech Stack |
 |---------|------|------------|
-| [🚀 System Backupowy ](https://github.com/Swagrzyk/erp-backup-system) | Zaawansowany system backupowy i rollbackowy dla środowisk Comarch ERP | Python, Bash, Cron, SQL |
+| [🚀 System Backupowy ](https://github.com/Swagrzyk/erp-backup-system) | System backupowy | Bash, Cron |
 | [📊 Monitoring Dashboard](https://github.com/Swagrzyk/monitoring-system) | System monitorowania usług i infrastruktury | Grafana, Prometheus, Python |
-| [🐍 Snake Game Advanced](https://github.com/Swagrzyk/snake) | Gra snake z AI i wieloma funkcjami | Python, PyGame, Algorithms |
-| [♟️ Checkers AI](https://github.com/Swagrzyk/checkers) | Warcaby z silnikiem AI | Java, Algorithms, UI |
+| [🐍 Snake Game Advanced](https://github.com/Swagrzyk/snake) | Gra snake  | C++ |
+| [♟️ Checkers AI](https://github.com/Swagrzyk/checkers) | Warcaby  | c++  |
 | [💱 Kalkulator Walutowy](https://github.com/Swagrzyk/currency-converter) | Kalkulator walutowy z API NBP | Java, Spring Boot, API |
 
 
