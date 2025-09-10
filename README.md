@@ -109,13 +109,11 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swagrzyk&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swagrzyk&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swagrzyk&theme=tokyo-night&custom_title=GitHub%20Activity%20Graph%20(Last%20365%20days)&days=365" alt="GitHub Activity Graph" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Swagrzyk&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
