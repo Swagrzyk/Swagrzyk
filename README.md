@@ -30,8 +30,16 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 ## 🔥 Statystyki GitHub
 
 <p align="center">
-  <img height="170" src="https://api.github-readme-stats.vercel.app/api?username=Swagrzyk&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Swagrzyk&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swagrzyk&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swagrzyk&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
@@ -40,6 +48,10 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 
 <p align="center">
   <img height="200" src="https://streak-stats.demolab.com/?user=Swagrzyk&theme=tokyonight&fire=DD2727" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 
