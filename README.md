@@ -84,10 +84,15 @@ Proszę wybrać preferowany język aby kontynuować:
 - **Polscy użytkownicy**: Kliknij czerwony przycisk aby zobaczyć pełną polską wersję
 
 <div align="center">
+
 [![English Version](https://img.shields.io/badge/ENGLISH_VERSION-🇬🇧-royalblue?style=for-the-badge&logo=google-translate&logoColor=white)](README_EN.md)
 [![Polska Wersja](https://img.shields.io/badge/POLSKA_WERSJA-🇵🇱-crimson?style=for-the-badge&logo=google-translate&logoColor=white)](README_PL.md)
----
+
+
+
 </div>
+
+---
 
 <div align="center">
 
