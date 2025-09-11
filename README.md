@@ -1,10 +1,5 @@
 # 🌐 Welcome to My Profile / Witaj na Moim Profilu
 
-<div align="center">
-  
-![Language Selector](https://img.shields.io/badge/Choose%20Language-Wybierz%20Język-blue?style=for-the-badge)
-  
-</div>
 
 ## 🎯 About This Profile / O Profilu
 
@@ -13,7 +8,7 @@ Ten profil prezentuje moje projekty, umiejętności i doświadczenie w branży I
 
 ---
 
-## 🌍 Language Selection / Wybór Języka
+## 🌍 Click to select language / Kliknij by wybrać język 
 
 Please select your preferred language to continue:  
 Proszę wybrać preferowany język aby kontynuować:
