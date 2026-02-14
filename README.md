@@ -1,14 +1,14 @@
-# 🌐 Welcome to My Profile / Witaj na Moim Profilu
+#  Welcome to My Profile / Witaj na Moim Profilu
 
 
-## 🎯 About This Profile / O Profilu
+##  About This Profile / O Profilu
 
 This profile showcases my projects, skills, and experience in the IT field.  
 Ten profil prezentuje moje projekty, umiejętności i doświadczenie w branży IT.
 
 ---
 
-## 🌍 Click to select language / Kliknij by wybrać język 
+##  Click to select language / Kliknij by wybrać język 
 
 Please select your preferred language to continue:  
 Proszę wybrać preferowany język aby kontynuować:
@@ -22,7 +22,7 @@ Proszę wybrać preferowany język aby kontynuować:
 
 ---
 
-## 📊 Quick Stats / Szybkie Statystyki
+##  Quick Stats / Szybkie Statystyki
 
 <div align="center">
 
@@ -34,7 +34,7 @@ Proszę wybrać preferowany język aby kontynuować:
 
 ---
 
-## 🚀 Technologies I Use / Technologie których używam
+##  Technologies I Use / Technologie których używam
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Proszę wybrać preferowany język aby kontynuować:
 
 ---
 
-## 📈 GitHub Activity / Aktywność na GitHub
+##  GitHub Activity / Aktywność na GitHub
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Proszę wybrać preferowany język aby kontynuować:
 
 ---
 
-## 📫 Get In Touch / Skontaktuj się
+##  Get In Touch / Skontaktuj się
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Proszę wybrać preferowany język aby kontynuować:
 
 ---
 
-## 🔄 Navigation / Nawigacja
+##  Navigation / Nawigacja
 
 - **English Users**: Click the blue button above to view the full English version  
 - **Polscy użytkownicy**: Kliknij czerwony przycisk aby zobaczyć pełną polską wersję
