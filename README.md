@@ -42,7 +42,7 @@ Proszę wybrać preferowany język aby kontynuować:
 `Linux` `Docker` `Kubernetes` `AWS` `Vagrant` `VirtualBox` `Aruba Central`
 
 **Monitoring & DevOps:** \
-`Grafana` `Prometheus` `Nagios` `GitLab CI` `Ansible` `PDQ Deploy`
+`Grafana` `Prometheus` `Nagios` `GitLab CI` `Ansible` `PDQ Deploy` `Sentry` `Kibana`
 
 **Programming & Databases:** \
 `Python` `Java` `Bash` `PowerShell` `SQL` `C++` `MySQL` `PostgreSQL`
@@ -59,7 +59,7 @@ Proszę wybrać preferowany język aby kontynuować:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swagrzyk&show_icons=true&theme=radical&hide_title=true)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Swagrzyk&show_icons=true&theme=radical&hide_title=true)](https://github-readme-stats-fast.vercel.app/api?username=Swagrzyk&show_icons=true&theme=radical&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=radical&hide_title=true)
 
 </div>
