@@ -60,7 +60,7 @@ Proszę wybrać preferowany język aby kontynuować:
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Swagrzyk&show_icons=true&theme=radical&hide_title=true)](https://github-readme-stats-fast.vercel.app/api?username=Swagrzyk&show_icons=true&theme=radical&hide_title=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=radical&hide_title=true)](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=radical&hide_title=true)
+[[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=radical&hide_title=true)](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=radical&hide_title=true)](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Swagrzyk&layout=compact&theme=radical&hide_title=true)
 
 </div>
 
