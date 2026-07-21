@@ -74,7 +74,7 @@ High stress resistance allows me to work calmly even in critical situations, and
 
 - **Wrocław University of Science and Technology** - Engineer, Telecommunications, Specialization: Computer Networks (2021-2025) ✅ *Completed*
 - **WSB Merito University** - Master's Degree, Computer Science, Specialization: Artificial Intelligence and Machine Learning (2025-Present) 🎯
-- **WSB Merito University** - Postgraduate Studies, Cloud DevOps Engineer Expert (2025-Present) ⚡
+- **WSB Merito University** - Postgraduate Studies, Cloud DevOps Engineer Expert (2025-2026) ✅ *Completed*
 
 ## 📜 Certifications & Courses
 
@@ -85,7 +85,7 @@ High stress resistance allows me to work calmly even in critical situations, and
 - **CCNA** - Switching, Routing, and Wireless Essentials ✅
 - **securITum** - Practical Wireshark ✅
 - **Udemy** - Web Development (HTML, CSS, RWD) ✅
-- **Comarch** - Kubernetes Introduction 🚧 *in progress*
+- **Comarch** - Kubernetes Introduction ✅ 
 - **Spring Boot** - "Java101" Project: Currency Conversion Application ✅
 
 ## 🔬 Academic Projects
