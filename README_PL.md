@@ -78,7 +78,7 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 
 - **Politechnika Wrocławska** - Inżynier, Telekomunikacja, Specjalizacja: Sieci Komputerowe (2021-2025) ✅ *Ukończone*
 - **WSB Merito** - Magister, Informatyka, Specjalizacja: Sztuczna Inteligencja i Uczenie Maszynowe (2025-Obecnie) 🎯
-- **WSB Merito** - Studia Podyplomowe, Cloud DevOps Engineer Expert (2025-Obecnie) ⚡
+- **WSB Merito** - Studia Podyplomowe, Cloud DevOps Engineer Expert (2025-2026)  ✅ *Ukończone*
 
 ## 📜 Certyfikaty & Kursy
 
@@ -89,7 +89,7 @@ Wysoka odporność na stres pozwala mi działać spokojnie nawet w krytycznych s
 - **CCNA** - Podstawy przełączania, routingu i sieci bezprzewodowych ✅
 - **securITum** - Praktyczny Wireshark ✅
 - **Udemy** - Tworzenie stron internetowych (HTML, CSS, RWD) ✅
-- **Comarch** - Kubernetes Wprowadzenie 🚧 *w trakcie*
+- **Comarch** - Kubernetes Wprowadzenie ✅
 - **Spring Boot** - Projekt "Java101": Aplikacja do konwersji walut ✅
 
 ## 🔬 Projekty Akademickie
